@@ -1,0 +1,65 @@
+For page 89073. The rank is 5.587795
+For page 226411. The rank is 5.144190
+For page 241454. The rank is 4.529545
+For page 134832. The rank is 1.746993
+For page 69358. The rank is 1.461352
+For page 67756. The rank is 1.444643
+For page 234704. The rank is 1.426901
+For page 225872. The rank is 1.349502
+For page 186750. The rank is 1.334149
+For page 105607. The rank is 1.324046
+
+
+For page {'missouristate'} The rank is 0.979584
+For page {'clifsmart'} The rank is 0.114884
+For page {'bearsfamilies'} The rank is 0.047480
+For page {'maroonation'} The rank is 0.041801
+For page {'_gimmedatlooch'} The rank is 0.031288
+For page {'msuunivcomm'} The rank is 0.029981
+For page {'deesiscoe'} The rank is 0.027962
+For page {'themysteryhour'} The rank is 0.026379
+For page {'thepsubear'} The rank is 0.024973
+For page {'mostateparking'} The rank is 0.023011
+
+
+From most likely to land on to least likely:
+11
+18
+19
+20
+21
+27
+28
+17
+26
+29
+30
+22
+32
+25
+23
+24
+16
+33
+34
+15
+35
+14
+13
+36
+4
+3
+5
+12
+2
+10
+9
+6
+37
+8
+7
+1
+40
+39
+38
+31
