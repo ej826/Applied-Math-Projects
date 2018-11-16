@@ -11,7 +11,10 @@ The file "googleTwitter.m" uses the file "twitter.m" which also uses "msutweets.
 The file "monopoly.m" contains the probability of where you will land on a Monopoly board the most. A Monopoly board has 40 squares. There's a matrix H that has entries H(i, j) the represents the probability of moving from square j to square i on one roll of the dice. Then we use the power method to rank the squares in order of the most likely to be landed on in the long run.
 
 From Project 2:
-
+The file "QR_Algo.m" contains a function to execute the QR Algorithm.
+The file "SVD.m" uses Singular Value Decomposition (SVD) to construct a tank-6 approximation of the matrix. This file also uses the 'monopoly(1).mat' which contains the probabilities of moving from one square on a Monopoly board to another. Then the file also uses the power method to both the original matrix and teh approximation and compares the two different rankings.
+The file "shakespear.m" constructs a query using four words from the 'dictionary' (which is in the 'shake.mat' file) and returns all relevant documents. Then it also constructs a rank-10 approximation of the Term Document Matrix.
+The file "leastsquares.m" uses the method of least squares to find the line y=mx+b that best fits the data for linear regression. Then for cubic regression, it uses least squares to find the cubic polynormail y=ax^3+bx^2+cx+d that best fits the data. For exponential regression, it uses least squares method to find the exponential function y=Ce^(kx) that best fits the data. Then plots the three functions on the same graph with the original points.
 
 From Project 3:
 
